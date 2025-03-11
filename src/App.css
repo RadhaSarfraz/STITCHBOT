@@ -1,0 +1,30 @@
+.react-chatbot-kit-chat-bot-avatar-container {
+  background-color: #df3500
+}
+.react-chatbot-kit-chat-header { 
+  background-color: #df3500;
+  color: white;
+  font-size: small;
+  font-weight: bold;
+}
+.react-chatbot-kit-chat-container {
+  bottom: 30px;
+  border: #df3500;
+}
+.react-chatbot-kit-chat-input-container {
+  color: black;
+}
+.react-chatbot-kit-user-chat-message {
+font-size: small;
+}
+
+.react-chatbot-kit-chat-bot-message{
+  font-size: small;
+}
+
+.react-chatbot-kit-chat-input {
+  font-size: small;
+}
+.react-chatbot-kit-chat-bot-avatar-letter {
+  color: white;
+}
