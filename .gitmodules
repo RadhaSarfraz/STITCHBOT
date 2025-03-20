@@ -1,0 +1,3 @@
+[submodule "STITCHBOT"]
+	path = STITCHBOT
+	url = https://github.com/RadhaSarfraz/STITCHBOT.git
